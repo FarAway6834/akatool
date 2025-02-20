@@ -6,4 +6,4 @@ import clro
 from subpr.lib import __subpr__
 __builtin__.v = __vars__
 __builtin__.incognito = lambda x : __subpr__(f'start chrome --incognito {x}')
-__all__ = ['__main__']
+__all__, __version__ = ['__main__'], '0.0.1'
