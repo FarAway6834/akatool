@@ -7,6 +7,7 @@ setup(
     author='du7ec',
     author_email='dutec6834@gmail.com',
     url='https://github.com/FarAway6834/akatool',
+    install_requires=['edprompt', 'lbdc', 'sympy'],
     packages=find_packages(exclude=[]),
     python_requires='>=3.6',
     package_data={},
