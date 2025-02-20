@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='akatool',
-    version='0.0.1',
+    version='0.0.2',
     description='read descript thag writed by korean what write in github.',
     author='du7ec',
     author_email='dutec6834@gmail.com',
