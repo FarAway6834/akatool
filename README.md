@@ -15,6 +15,6 @@
 
 그러나, 작성자의 학업 방황이 끝나고 나서, 그런 잣거리가 이상해보였기때문에, [akatooLite](https://faraway6834.github.io/akatoolLite)에서 대부분의 역할을 수행하도록 바꿨고
 
-lite version에서 없엔 owopkg빛 ipitin을 이껄 깔므로써, 같이 사용하도록 계획을 바꿨음.
+lite version에서 없엔 [owopkg](https://github.com/FarAway6834/owopkg) 및 [ipitin](https://github.com/FarAway6834/ipitin)을 이껄 깔므로써, 같이 사용하도록 계획을 바꿨음.
 
 이상.
